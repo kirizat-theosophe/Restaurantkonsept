@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Uke_3_4_oppgave"
